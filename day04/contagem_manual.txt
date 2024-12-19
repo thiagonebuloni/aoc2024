@@ -1,0 +1,10 @@
+horizontal right        3   3
+horizontal left         2   2
+vertical down           1   1
+vertical up             2   2
+diagonal down right     1   1
+diagonal down left      1   1
+diagonal up right       4   4
+diagonal up left        4   4
+
+total                   18  18
